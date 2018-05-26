@@ -1,0 +1,75 @@
+Orange Velvet, 14, Mandelsirup, Sahne, Orangensaft, Maracujanektar
+Mandarinetto, 16, Mandarinensirup, Kirschnektar, Birnennektar
+Summerfeeling, 17, Preiselbeersirup, Pfirsichnektar, Ananassaft
+Green Banana, 19, Blue-Curacao-Sirup, Bananensirup, Orangensaft
+Strawberry Kiss, 20, Erdbeersirup, Sahne, Maracujanektar, Mangonektar, Orangensaft
+Green Widow, 23, Bananensirup, Blue-Curacao-Sirup, Orangensaft
+Evening Sun, 24, Grenadinesirup, Sahne, Bananennektar
+Highway Patrol, 27, Guavensirup, Ananassaft, Orangensaft
+Andrea, 29, Blue-Curacao-Sirup, Mandelsirup, Zitronensaft, Orangensaft
+Summer Fun, 30, Preiselbeernektar, Pfirsichnektar, Ananassaft
+Florida Flip, 31, Eigelb, Mangosirup, Grenadinesirup, Orangensaft
+Anitas Love, 33, Bananensirup, Sahne, Ananassaft, Maracujanektar
+Purpur Pneapple, 34, Ananassirup, Kirschnektar, Bananennektar
+Fiesta, 35, Erdbeersirup, Sahne, Orangensaft, Maracujanektar
+Tutti Frutti, 36, Maracujasirup, Orangensaft, Ananassaft, Sahne
+Green Almond, 39, Blue-Curacao-Sirup, Mandelsirup, Orangensaft, Ananassaft
+Cinderella, 40, Grenadinesirup, Kokossirup, Sahne, Orangensaft, Ananassaft
+Rubino, 41, Grenadinesirup, Roter Traubensaft, Schwarzer-Hohannisbeer-Nektar
+Pineapple Mix, 43, Ananassaft, Preiselbeernektar, Mandelsirup
+Strawbeery Cup, 44, Erdbeeren, Erdbeersirup, Kokossirup, Sahne, Ananassaft
+Athletic, 45, Preiselbeersirup, Sahne, Roter Traubensaft
+Bananen-Ananas-Milch, 46, Bananensirup, Kokossirup, Ananassaft, Milch
+Grenadine-Milk, 48, Vanilleeis, Grenadinesirup, Milch
+Milkshake, 49, Erdbeeren, Vanilleeis, Erdbeersirup, Milch
+Coco-Cherry-Milk, 51, Kokossirup, Milch, Kirschnektar
+Jogging Mix, 52, Mandarinensirup, Roter Traubensaft, Milch
+Pink Power, 54, Preiselbeersirup, Buttermilch
+Pick Me Up, 55, Sangrita Classic Würzdrink, Milch, Eigelb, Zitronensaft
+Green Lady, 56, Zitronensaft, Blue-Curacao-Sirup, Gin-Sirup
+Flamingo, 58, Kokossirup, Erdbeersirup, Orangensaft, Grapefruitsaft
+Red Fruits, 59, Grenadinesirup, Roter Traubensaft, Kirschnektar, Preiselbeernektar
+Mind Cooler, 61, Pfefferminzsirup, Zitronensaft, Orangensaft, Maracujanektar
+Virgin Mary, 62, Tabasco, Warcestershiresauce, Zitronensaft, Tomatensaft
+Moon Walker, 63, Preiselbeernektar, Orangensaft, Roter Traubensaft, Schwarzer-Johannisbeer-Nektar
+Golden Nugget, 64, Limettensirup, Zitronensaft, Maracujanektar
+Red Orchid, 66, Grenadinesirup, Limettensirup, Zitronensaft, Grapefruitsaft, Orangensaft
+Southside, 67, Kokossirup, Grenadinesirup, Grapefruitsaft
+Singapore Sling, 69, Amarenakirschensirup, Zitronensaft, Ananassaft, Gin-Sirup, Soda Wasser
+Californian, 70, Mangosirup, Limettensirup, Orangensaft, Grapefruitsaft
+Cocomint, 71, Kokossirup, Pfefferminzsirup, Zitronensaft, Orangensaft, Ananassaft
+Strawberry Daiquiri, 72, Erdbeermus, Zitronensaft, Erdbeersirup, Rum-Sirup
+Pussy Foot, 74, Grenadinesirup, Orangensaft, Grapefruitsaft, Ananassaft
+Baby Colada, 75, Kokossirup, Sahne, Ananassaft
+Blue Passion, 76, Blue-Curacao-Sirup, Maracujasirup, Grapefruitsaft
+Planter's Punch, 79, Grenadinesirup, Zitronensaft, Orangensaft, Ananassaft, Rum-Sirup
+Yellow Sun, 80, Maracujasirup, Orangensaft, Grapefruitsaft, Bananennektar
+Speedy, 81, Blue-Curacao-Sirup, Maracujanektar, Grapefruitsaft, Bananennektar
+Pina Colada, 82, Kokossirup, Sahne, Ananassaft, Rum-Sirup
+Pink Planter, 84, Rum-Sirup, Bananennektar, Kirschnektar, Grapefruitsaft
+Chiquita Punch, 85, Bananensirup, Grenadinesirup, Sahne, Orangensaft
+Swimming Pool, 87, Blue-Curacao-Sirup, Kokossirup, Sahne, Ananassaft
+Crazy Coconut, 88, Kokossirup, Maracujanektar, Mangonektar, Bananennektar
+Tropicana, 89, Limettensirup, Kokossirup, Kirschnektar, Bananennektar
+Caribbean Fruitpunch, 90, Blue-Curacao-Sirup, Limettensirup, Zitronensaft, Maracujanektar, Ananassaft
+Yellow Fun, 93, Mangosirup, Zitronensaft, Maracujanektar, Pfirsichnektar
+Ipanema, 94, Limette, Rohrzucker, Ginger Ale
+Bananen-Aprikosen-Buttermilch, 95, Aprikose, Banane, Buttermilch, Honig, Muskatnuss
+Exotic Cream, 96, Sahne, Kokossirup, Erdbeersirup, Ananassaft, Milch
+Cool Love, 97, Karamellsirup, Amarettosirup, Milch, Kaffee, Kakaopulver
+Grenadine-Spriter, 98, Grenadinesirup, Mineralwasser
+Summer Collins, 100, Gin-Sirup, Cranberrysirup, Zitronensaft, Orangensaft, Bitter Lemon
+Apricot Lady, 101, Aprikosensirup, Orangensaft, Bitter Lemon
+Craneberry Cooler, 102, Preiselbeernektar, Apfelsaft, Zitronensaft, Mineralwasser
+Sparkling Mango, 103, Mangosirup, Maracujanektar, Schwppes Bitter Orange
+Cool Strawberry, 104, Erdbeersirup, Zitronensaft, Maracujanektar, Bitter Lemon
+Kirsch Tonic, 105, Limettensirup, Kirschnektar, Tonic Water
+Tom Collins, 106, Zitronensaft, Gin-Sirup, Soda Wasser
+Summer Cooler, 108, Limettensirup, Kirschnektar, Ginger Ale
+Red Angel, 109, Limettensirup, Roter Traubensaft, Bitter Lemon
+Limetten-Spritzer, 110, Limettensirup, Mineralwasser
+Azzurro Notte, 111, Mandelsirup, Blue-Curacao-Sirup, Zitronensaft, Tonic Water
+Pink Dream, 112, Preiselbeersirup, Orangensaft, Bitter Lemon
+Yellow Boxer, 113, Mandarinensirup, Zitronensaft, Orangensaft, Tonic Water
+Kokosschokolade, 115, Heiße Schokolade, Kokossirup, Sahne
+Mandelkaffee, 116, Kaffee, Mandelsirup, Sahne
