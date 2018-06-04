@@ -1,26 +1,19 @@
-Banane
-Eigelb
+Die Datei muss in vorhanden.txt umbenannt werden und diese Zeile entfernt werden.
+
 Erdbeeren
 Erdbeersirup
 Honig
-Kakaopulver
 Limettensirup
 Milch
 Mineralwasser
-Orangensaft
 Rohrzucker
 Tonic Water
 Vanilleeis
 Sahne
 Blue-Curacao-Sirup
-Mandelsirup
 Maracujasirup
 Kokossirup
-Grenadinesirup
 Maracujanektar
-Bananennektar
-Kirschnektar
 Zitronensaft
 Grapefruitsaft
 Ananassaft
-Mangonektar
