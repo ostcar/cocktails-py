@@ -141,6 +141,23 @@ def main(argv: List[str]) -> None:
         print()
         print("\n".join(get_ingredients(my_cocktails)))
 
+    elif command == "myingredient":
+        cocktails = load_cocktails('cocktails.txt')
+        if len(argv) < 3:
+            print('Mindestens eine Zutat angeben')
+            exit(1)
+        ingredients = set(argv[2:])
+        all_ingredients = get_ingredients(cocktails)
+        if not ingredients.issubset(all_ingredients):
+            print('Ungültige Zutat')
+            exit(1)
+        my_ingredients = get_my_ingredients('vorhanden.txt')
+        cocktails = list(find_cocktails(cocktails, my_ingredients))
+        my_cocktails = [cocktail for cocktail in cocktails if ingredients.issubset(cocktail.ingredients)]
+        print_cocktails(my_cocktails)
+        print()
+        print("\n".join(get_ingredients(my_cocktails)))
+
     elif command == "json":
         cocktails = load_cocktails('cocktails.txt')
         print(to_json(cocktails))
