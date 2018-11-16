@@ -40,7 +40,8 @@ def get_my_ingredients(path: Optional[str] = None) -> Ingredients:
     if path is not None:
         with open(path) as f:
             for line in f.readlines():
-                out.add(line.strip())
+                if line.strip():
+                    out.add(line.strip())
     else:
         while True:
             i = input()
