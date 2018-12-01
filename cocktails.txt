@@ -15,7 +15,7 @@ Fiesta, 35, Erdbeersirup, Sahne, Orangensaft, Maracujanektar
 Tutti Frutti, 36, Maracujasirup, Orangensaft, Ananassaft, Sahne
 Green Almond, 39, Blue-Curacao-Sirup, Mandelsirup, Orangensaft, Ananassaft
 Cinderella, 40, Grenadinesirup, Kokossirup, Sahne, Orangensaft, Ananassaft
-Rubino, 41, Grenadinesirup, Roter Traubensaft, Schwarzer-Hohannisbeer-Nektar
+Rubino, 41, Grenadinesirup, Roter Traubensaft, Schwarzer-Johannisbeer-Nektar
 Pineapple Mix, 43, Ananassaft, Preiselbeernektar, Mandelsirup
 Strawbeery Cup, 44, Erdbeeren, Erdbeersirup, Kokossirup, Sahne, Ananassaft
 Athletic, 45, Preiselbeersirup, Sahne, Roter Traubensaft

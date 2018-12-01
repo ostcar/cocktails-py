@@ -40,6 +40,7 @@ def get_my_ingredients(path: Optional[str] = None) -> Ingredients:
     if path is not None:
         with open(path) as f:
             for line in f.readlines():
+                line = line.split('#', 1)[0]
                 if line.strip():
                     out.add(line.strip())
     else:
